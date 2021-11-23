@@ -1,4 +1,4 @@
-### Brainfuck interpreter for the esolang "Text"
+### Brainfuck interpreter for the esolang "[Text](https://esolangs.org/wiki/Text)"
 
 Whilst not many people have heard of Text, almost all ASCII files, including readmes,and interpreted programming language source code files, are actually written in Text.
 All Text programs output their own source code, thus every program is a quine.
